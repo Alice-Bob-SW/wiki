@@ -1,0 +1,5 @@
+editor:
+  assets.overrideAssets: 'Override Assets'
+  assets.overrideAssetsConfirm: 'Conflicting file names, are you sure you want to override '
+  assets.overrideAssetsWarn: 'This action cannot be undone!'
+  assets.actions.override: 'Override'
